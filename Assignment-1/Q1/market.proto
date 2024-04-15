@@ -1,0 +1,99 @@
+syntax = "proto3";
+
+message SellerInfo {
+    string sellerId = 1;
+    string sellerName = 2;
+    string sellerAddress = 3;
+}
+// message BuyerInfo{
+//     string buyerAddress = 1;
+//     string buyerName = 2;
+// }
+message Product {
+    string itemId = 1;
+    string name = 2;
+    float price = 3;
+    enum Category {
+        ELECTRONICS = 0;
+        FASHION = 1;
+        OTHERS = 2;
+        ANY = 3;
+    }
+    Category category = 4;
+    int32 quantity = 5;
+    string description = 6;
+    SellerInfo seller = 7;
+    float rating = 8;
+}
+
+message Order {
+    string orderId = 1;
+    SellerInfo seller = 2;
+    string buyerAddress = 3;
+    repeated Product products = 4;
+}
+
+message Response {
+    string message = 1;
+}
+
+message RegisterSellerRequest {
+    SellerInfo sellerInfo = 1;
+}
+
+message SellItemRequest {
+    Product product = 1;
+}
+
+message UpdateItemRequest {
+    string itemId = 1;
+    float newPrice = 2;
+    int32 newQuantity = 3;
+    SellerInfo seller = 4;
+}
+
+message DeleteItemRequest {
+    string itemId = 1;
+    SellerInfo seller = 2;
+}
+
+message DisplaySellerItemsRequest {
+    SellerInfo sellerInfo = 1;
+}
+
+message SearchItemRequest {
+    Product product = 1;
+}
+
+message BuyItemRequest {
+    Order order = 1;
+}
+
+message AddToWishListRequest {
+    Product product = 1;
+    string buyerAddress = 2;
+}
+
+message RateItemRequest {
+    Product product = 1;
+    string rating = 2;
+    string buyerAddress = 3;
+  
+}
+
+message NotifyClientRequest {
+    Product product = 1;
+}
+
+service MarketService {
+    rpc RegisterSeller (RegisterSellerRequest) returns (Response);
+    rpc SellItem (SellItemRequest) returns (Response);
+    rpc UpdateItem (UpdateItemRequest) returns (Response);
+    rpc DeleteItem (DeleteItemRequest) returns (Response);
+    rpc DisplaySellerItems (DisplaySellerItemsRequest) returns (stream Product);
+    rpc SearchItem (SearchItemRequest) returns (stream Product);
+    rpc BuyItem (BuyItemRequest) returns (Response);
+    rpc AddToWishList (AddToWishListRequest) returns (Response);
+    rpc RateItem (RateItemRequest) returns (Response);
+    rpc NotifyClient (NotifyClientRequest) returns (Response);
+}

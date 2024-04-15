@@ -1,0 +1,24 @@
+{
+    "ip_ports": [
+        {
+            "nodeId": 0,
+            "nodeIpPort": "localhost:5001"
+        },
+        {
+            "nodeId": 1,
+            "nodeIpPort": "localhost:5002"
+        },
+        {
+            "nodeId": 2,
+            "nodeIpPort": "localhost:5003"
+        },
+        {
+            "nodeId": 3,
+            "nodeIpPort": "localhost:5004"
+        },
+        {
+            "nodeId": 4,
+            "nodeIpPort": "localhost:5005"
+        }
+    ]
+}

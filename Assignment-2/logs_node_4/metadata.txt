@@ -1,0 +1,3 @@
+CommitIndex -1
+Term 1047
+VotedFor 4

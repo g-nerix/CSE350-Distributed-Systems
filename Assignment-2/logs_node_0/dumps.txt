@@ -1,0 +1,324 @@
+Vote granted for Node 3 in term 1
+Node 0 rejected AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 1
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 2
+Vote granted for Node 3 in term 3
+Vote denied for Node 2 in term 3
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 3
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 4
+Vote granted for Node 3 in term 5
+Vote denied for Node 2 in term 5
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 5
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 6
+Vote granted for Node 3 in term 7
+Vote denied for Node 2 in term 7
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 7
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 8
+Vote granted for Node 3 in term 9
+Vote denied for Node 2 in term 9
+Vote denied for Node 4 in term 9
+Node 0 rejected AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 10
+Vote granted for Node 3 in term 11
+Vote denied for Node 2 in term 11
+Node 0 rejected AppendEntries RPC from 3.
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 11
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 12
+Vote granted for Node 3 in term 13
+Vote denied for Node 2 in term 13
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 13
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 14
+Vote granted for Node 3 in term 15
+Vote denied for Node 2 in term 15
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 15
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 16
+Vote granted for Node 3 in term 17
+Vote denied for Node 2 in term 17
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 17
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 18
+Vote granted for Node 3 in term 19
+Vote denied for Node 2 in term 19
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 19
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 20
+Vote granted for Node 3 in term 21
+Vote denied for Node 2 in term 21
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 21
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 22
+Vote granted for Node 3 in term 23
+Vote denied for Node 2 in term 23
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 23
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 24
+Vote granted for Node 3 in term 25
+Vote denied for Node 2 in term 25
+Node 0 rejected AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 26
+Vote denied for Node 4 in term 27
+Vote granted for Node 3 in term 27
+Vote denied for Node 2 in term 27
+Vote denied for Node 4 in term 28
+Vote granted for Node 3 in term 28
+Vote denied for Node 2 in term 28
+Vote denied for Node 4 in term 29
+Vote granted for Node 3 in term 29
+Node 0 rejected AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 30
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 31
+Vote granted for Node 3 in term 31
+Vote denied for Node 4 in term 32
+Node 0 rejected AppendEntries RPC from 3.
+Node 0 accepted AppendEntries RPC from 3.
+Vote denied for Node 4 in term 33
+Vote denied for Node 4 in term 34
+Vote granted for Node 3 in term 34
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 35
+Vote denied for Node 4 in term 36
+Vote granted for Node 3 in term 37
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 38
+Vote denied for Node 4 in term 39
+Vote granted for Node 3 in term 39
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 40
+Vote denied for Node 4 in term 41
+Vote denied for Node 4 in term 42
+Vote granted for Node 3 in term 42
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 43
+Vote denied for Node 4 in term 44
+Vote granted for Node 3 in term 44
+Vote denied for Node 4 in term 45
+Vote denied for Node 4 in term 46
+Vote denied for Node 4 in term 47
+Vote denied for Node 4 in term 48
+Vote granted for Node 2 in term 49
+Node 0 rejected AppendEntries RPC from 2.
+Node 0 accepted AppendEntries RPC from 2.
+Vote denied for Node 4 in term 50
+Vote granted for Node 2 in term 51
+Node 0 rejected AppendEntries RPC from 2.
+Vote denied for Node 4 in term 51
+Vote denied for Node 4 in term 52
+Vote granted for Node 2 in term 53
+Node 0 rejected AppendEntries RPC from 2.
+Vote denied for Node 4 in term 53
+Vote denied for Node 4 in term 54
+Vote granted for Node 2 in term 55
+Vote denied for Node 4 in term 55
+Node 0 rejected AppendEntries RPC from 2.
+Vote denied for Node 4 in term 56
+Vote granted for Node 2 in term 57
+Vote denied for Node 4 in term 57
+Node 0 rejected AppendEntries RPC from 2.
+Vote denied for Node 4 in term 58
+Vote granted for Node 3 in term 59
+Vote denied for Node 2 in term 59
+Vote denied for Node 4 in term 59
+Node 0 rejected AppendEntries RPC from 3.
+Vote denied for Node 4 in term 60
+Vote granted for Node 3 in term 61
+Vote denied for Node 2 in term 61
+Vote denied for Node 4 in term 61
+Node 0 rejected AppendEntries RPC from 3.

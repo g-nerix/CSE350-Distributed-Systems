@@ -1,0 +1,3 @@
+CommitIndex 13
+Term 61
+VotedFor 3

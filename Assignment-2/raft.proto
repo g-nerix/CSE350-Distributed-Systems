@@ -1,0 +1,66 @@
+syntax = "proto3";
+
+message ServeClientArgs {
+  string request = 1;
+}
+
+message ServeClientReply {
+  string data = 1;
+  int32 leaderId = 2;
+  bool success = 3;
+}
+
+message VoteRequestReply {
+  int32 nodeId = 1;
+  int32 term = 2;
+  bool success = 3;
+  float leaseDurationRemaining = 4;
+}
+
+message GetVoteRequest {
+  int32 term = 1;
+  int32 nodeId = 2;
+  int32 lastLogIndex = 3;
+  int32 lastLogTerm = 4;
+}
+
+message AppendEntryReply {
+    bool success = 1;
+    int32 term = 2;
+    int32 ack = 3;
+    int32 nodeId = 4;
+}
+
+message LogRequestReply {
+  int32 nodeId = 1;
+  int32 currentTerm = 2;
+  int32 ack = 3;
+  bool success = 4;
+}
+
+message Command {
+  string key = 1;
+  string value = 2;
+}
+
+message LogEntry {
+  int32 term = 1;
+  Command command = 2;
+}
+
+
+message AppendEntriesRequest {
+  int32 term = 1;
+  int32 leaderId = 2;
+  int32 prevLogIndex = 3;
+  int32 prevLogTerm = 4;
+  repeated LogEntry entries = 5;
+  int32 leaderCommitIndex = 6;
+  int32 leaseDuration = 7;
+}
+
+service RaftNode {
+  rpc ServeClient (ServeClientArgs) returns (ServeClientReply) {}
+  rpc ServeLogRequest (AppendEntriesRequest) returns (LogRequestReply) {}
+  rpc ServeVoteRequest (GetVoteRequest) returns (VoteRequestReply) {}
+}
